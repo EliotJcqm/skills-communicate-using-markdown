@@ -5,4 +5,4 @@
 ###### Sixth header, the smaller one
 
 
-I have changed the markdown by discovering the different sizes of headers. 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
